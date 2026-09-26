@@ -8,8 +8,8 @@
 ## 👥 The Development Crew
 | Developer | GitHub Handle | Key Contributions |
 | :--- | :--- | :--- |
-| **Ritesh Singh** | [@riteshsingh03-dot](https://github.com/riteshsingh03-dot) | **UI & Mechanics:** We developed the Pause/Restart features, fruit collision fixes, and the main menu interface. |
 | **Abhinav Deval** | [@abhinavkdeval08-design](https://github.com/abhinavkdeval08-design) | **Logic & Optimization:** We implemented `clearSnake` for memory leak prevention, ANSI flicker reduction, and High-Score logic. |
+| **Ritesh Singh** | [@riteshsingh03-dot](https://github.com/riteshsingh03-dot) | **UI & Mechanics:** We developed the Pause/Restart features, fruit collision fixes, and the main menu interface. |
 | **Pawan Asati** | [@Pawan-official](https://github.com/Pawan-official) | **Game Dynamics:** We programmed the progressive speed logic, boundary mechanics, and managed the build/executable updates. |
 
 ---
